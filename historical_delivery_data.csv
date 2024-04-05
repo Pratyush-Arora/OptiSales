@@ -1,0 +1,101 @@
+DeliveryID,SupplierID,DeliveryDate,Quantity,OnTime,SupplierName,ContactPerson,ContactEmail,Location,LeadTime,PerformanceScore
+D001,S020,2020-02-29,70,False,Lewis PLC,Olivia Hanna,alvarezedward@example.net,Markside,9,90.36
+D028,S020,2020-10-11,55,False,Lewis PLC,Olivia Hanna,alvarezedward@example.net,Markside,9,90.36
+D054,S020,2021-04-03,154,False,Lewis PLC,Olivia Hanna,alvarezedward@example.net,Markside,9,90.36
+D064,S020,2020-09-09,75,False,Lewis PLC,Olivia Hanna,alvarezedward@example.net,Markside,9,90.36
+D066,S020,2020-10-29,153,False,Lewis PLC,Olivia Hanna,alvarezedward@example.net,Markside,9,90.36
+D077,S020,2020-09-04,121,False,Lewis PLC,Olivia Hanna,alvarezedward@example.net,Markside,9,90.36
+D002,S008,2020-03-29,71,False,"Bailey, Roman and Long",Robert Henry,mosleysharon@example.net,New Jeremy,9,93.06
+D017,S008,2020-06-17,129,True,"Bailey, Roman and Long",Robert Henry,mosleysharon@example.net,New Jeremy,9,93.06
+D018,S008,2020-08-04,152,True,"Bailey, Roman and Long",Robert Henry,mosleysharon@example.net,New Jeremy,9,93.06
+D027,S008,2020-02-16,136,False,"Bailey, Roman and Long",Robert Henry,mosleysharon@example.net,New Jeremy,9,93.06
+D043,S008,2021-05-02,110,True,"Bailey, Roman and Long",Robert Henry,mosleysharon@example.net,New Jeremy,9,93.06
+D052,S008,2020-03-26,112,True,"Bailey, Roman and Long",Robert Henry,mosleysharon@example.net,New Jeremy,9,93.06
+D063,S008,2021-07-03,63,False,"Bailey, Roman and Long",Robert Henry,mosleysharon@example.net,New Jeremy,9,93.06
+D003,S012,2021-04-24,174,False,Reyes and Sons,Steve Gilbert,rthornton@example.com,Crystalstad,1,94.57
+D007,S012,2021-04-13,82,False,Reyes and Sons,Steve Gilbert,rthornton@example.com,Crystalstad,1,94.57
+D030,S012,2020-03-01,191,True,Reyes and Sons,Steve Gilbert,rthornton@example.com,Crystalstad,1,94.57
+D048,S012,2021-07-07,83,True,Reyes and Sons,Steve Gilbert,rthornton@example.com,Crystalstad,1,94.57
+D050,S012,2020-10-07,197,False,Reyes and Sons,Steve Gilbert,rthornton@example.com,Crystalstad,1,94.57
+D004,S017,2020-07-09,67,False,Holmes-White,Annette Mann,hendersonchristina@example.com,Port Sandramouth,9,91.04
+D032,S017,2021-03-04,200,True,Holmes-White,Annette Mann,hendersonchristina@example.com,Port Sandramouth,9,91.04
+D097,S017,2020-06-19,147,True,Holmes-White,Annette Mann,hendersonchristina@example.com,Port Sandramouth,9,91.04
+D005,S013,2021-07-12,186,True,Perez Group,Holly Davis,asmith@example.org,Oliviastad,1,88.37
+D016,S013,2020-08-03,101,True,Perez Group,Holly Davis,asmith@example.org,Oliviastad,1,88.37
+D022,S013,2021-08-21,165,False,Perez Group,Holly Davis,asmith@example.org,Oliviastad,1,88.37
+D023,S013,2020-03-03,80,True,Perez Group,Holly Davis,asmith@example.org,Oliviastad,1,88.37
+D029,S013,2020-12-19,200,False,Perez Group,Holly Davis,asmith@example.org,Oliviastad,1,88.37
+D059,S013,2020-12-17,140,False,Perez Group,Holly Davis,asmith@example.org,Oliviastad,1,88.37
+D073,S013,2020-09-18,164,False,Perez Group,Holly Davis,asmith@example.org,Oliviastad,1,88.37
+D085,S013,2021-04-28,188,True,Perez Group,Holly Davis,asmith@example.org,Oliviastad,1,88.37
+D086,S013,2021-05-13,53,True,Perez Group,Holly Davis,asmith@example.org,Oliviastad,1,88.37
+D006,S018,2021-01-30,82,True,Wolf-Juarez,Elizabeth Kim,sanchezvalerie@example.org,Guerraport,10,93.07
+D040,S018,2020-12-27,134,True,Wolf-Juarez,Elizabeth Kim,sanchezvalerie@example.org,Guerraport,10,93.07
+D051,S018,2020-08-11,171,False,Wolf-Juarez,Elizabeth Kim,sanchezvalerie@example.org,Guerraport,10,93.07
+D067,S018,2020-12-29,136,True,Wolf-Juarez,Elizabeth Kim,sanchezvalerie@example.org,Guerraport,10,93.07
+D078,S018,2020-07-28,168,True,Wolf-Juarez,Elizabeth Kim,sanchezvalerie@example.org,Guerraport,10,93.07
+D083,S018,2021-07-07,75,True,Wolf-Juarez,Elizabeth Kim,sanchezvalerie@example.org,Guerraport,10,93.07
+D096,S018,2020-06-22,92,False,Wolf-Juarez,Elizabeth Kim,sanchezvalerie@example.org,Guerraport,10,93.07
+D100,S018,2020-07-19,117,False,Wolf-Juarez,Elizabeth Kim,sanchezvalerie@example.org,Guerraport,10,93.07
+D008,S015,2020-12-13,171,True,Smith LLC,Jessica Hall,usutton@example.net,Lake Angela,4,85.97
+D025,S015,2020-10-28,107,True,Smith LLC,Jessica Hall,usutton@example.net,Lake Angela,4,85.97
+D069,S015,2020-01-29,113,False,Smith LLC,Jessica Hall,usutton@example.net,Lake Angela,4,85.97
+D009,S001,2021-12-20,190,True,Hayes-Alvarado,Janet Shaffer,angela29@example.org,Randallland,2,86.99
+D035,S001,2021-11-22,68,True,Hayes-Alvarado,Janet Shaffer,angela29@example.org,Randallland,2,86.99
+D057,S001,2021-01-03,74,True,Hayes-Alvarado,Janet Shaffer,angela29@example.org,Randallland,2,86.99
+D068,S001,2020-04-11,77,False,Hayes-Alvarado,Janet Shaffer,angela29@example.org,Randallland,2,86.99
+D092,S001,2021-11-29,173,True,Hayes-Alvarado,Janet Shaffer,angela29@example.org,Randallland,2,86.99
+D094,S001,2020-01-23,152,False,Hayes-Alvarado,Janet Shaffer,angela29@example.org,Randallland,2,86.99
+D010,S005,2021-03-15,92,True,Sexton and Sons,Jacqueline Collins,johnsoncarol@example.net,Melissamouth,4,90.89
+D013,S005,2020-01-11,158,True,Sexton and Sons,Jacqueline Collins,johnsoncarol@example.net,Melissamouth,4,90.89
+D019,S005,2021-08-16,145,True,Sexton and Sons,Jacqueline Collins,johnsoncarol@example.net,Melissamouth,4,90.89
+D034,S005,2021-06-05,51,False,Sexton and Sons,Jacqueline Collins,johnsoncarol@example.net,Melissamouth,4,90.89
+D038,S005,2020-08-30,67,False,Sexton and Sons,Jacqueline Collins,johnsoncarol@example.net,Melissamouth,4,90.89
+D047,S005,2020-03-02,188,False,Sexton and Sons,Jacqueline Collins,johnsoncarol@example.net,Melissamouth,4,90.89
+D053,S005,2020-09-16,171,False,Sexton and Sons,Jacqueline Collins,johnsoncarol@example.net,Melissamouth,4,90.89
+D011,S006,2021-02-15,117,False,Christensen Inc,Christopher Davis,knightrobert@example.com,Lake Karen,3,93.09
+D015,S006,2020-03-07,188,True,Christensen Inc,Christopher Davis,knightrobert@example.com,Lake Karen,3,93.09
+D020,S006,2021-08-14,162,True,Christensen Inc,Christopher Davis,knightrobert@example.com,Lake Karen,3,93.09
+D037,S006,2020-05-04,108,False,Christensen Inc,Christopher Davis,knightrobert@example.com,Lake Karen,3,93.09
+D046,S006,2020-03-21,104,True,Christensen Inc,Christopher Davis,knightrobert@example.com,Lake Karen,3,93.09
+D049,S006,2021-08-20,196,True,Christensen Inc,Christopher Davis,knightrobert@example.com,Lake Karen,3,93.09
+D072,S006,2020-12-26,187,True,Christensen Inc,Christopher Davis,knightrobert@example.com,Lake Karen,3,93.09
+D079,S006,2021-08-02,113,False,Christensen Inc,Christopher Davis,knightrobert@example.com,Lake Karen,3,93.09
+D084,S006,2020-03-20,62,True,Christensen Inc,Christopher Davis,knightrobert@example.com,Lake Karen,3,93.09
+D012,S002,2021-11-21,185,True,"Hodge, Moore and Doyle",Michael Shannon,martinmichael@example.net,Powershaven,1,91.5
+D056,S002,2020-12-11,74,False,"Hodge, Moore and Doyle",Michael Shannon,martinmichael@example.net,Powershaven,1,91.5
+D062,S002,2021-12-14,169,True,"Hodge, Moore and Doyle",Michael Shannon,martinmichael@example.net,Powershaven,1,91.5
+D099,S002,2021-08-01,149,True,"Hodge, Moore and Doyle",Michael Shannon,martinmichael@example.net,Powershaven,1,91.5
+D014,S003,2020-01-06,104,False,Stewart-Jackson,Christopher Miller,jasminecruz@example.org,Stephenbury,5,90.45
+D058,S003,2021-02-18,160,True,Stewart-Jackson,Christopher Miller,jasminecruz@example.org,Stephenbury,5,90.45
+D074,S003,2021-04-03,85,False,Stewart-Jackson,Christopher Miller,jasminecruz@example.org,Stephenbury,5,90.45
+D021,S019,2021-06-27,182,True,"Martinez, Gomez and Jones",Samuel Martin,acooper@example.org,New David,1,92.3
+D039,S019,2021-03-25,58,True,"Martinez, Gomez and Jones",Samuel Martin,acooper@example.org,New David,1,92.3
+D044,S019,2021-11-24,121,True,"Martinez, Gomez and Jones",Samuel Martin,acooper@example.org,New David,1,92.3
+D082,S019,2021-04-10,190,False,"Martinez, Gomez and Jones",Samuel Martin,acooper@example.org,New David,1,92.3
+D095,S019,2020-05-15,65,True,"Martinez, Gomez and Jones",Samuel Martin,acooper@example.org,New David,1,92.3
+D024,S004,2020-01-24,113,True,"Gibson, Baker and Vazquez",Philip Tucker,mharvey@example.net,Ambermouth,4,87.2
+D026,S004,2021-11-28,66,True,"Gibson, Baker and Vazquez",Philip Tucker,mharvey@example.net,Ambermouth,4,87.2
+D081,S004,2020-04-18,163,False,"Gibson, Baker and Vazquez",Philip Tucker,mharvey@example.net,Ambermouth,4,87.2
+D087,S004,2020-12-11,73,True,"Gibson, Baker and Vazquez",Philip Tucker,mharvey@example.net,Ambermouth,4,87.2
+D031,S014,2020-12-18,108,False,"Ibarra, Hudson and Stephenson",Robin Kim,brianapatterson@example.org,Robinberg,2,85.93
+D042,S014,2021-12-15,181,True,"Ibarra, Hudson and Stephenson",Robin Kim,brianapatterson@example.org,Robinberg,2,85.93
+D070,S014,2020-02-01,99,False,"Ibarra, Hudson and Stephenson",Robin Kim,brianapatterson@example.org,Robinberg,2,85.93
+D033,S016,2020-05-20,106,False,Haas and Sons,Lauren Shah,richardbrown@example.org,Bennetthaven,4,93.47
+D060,S016,2020-12-20,158,True,Haas and Sons,Lauren Shah,richardbrown@example.org,Bennetthaven,4,93.47
+D088,S016,2020-09-28,110,False,Haas and Sons,Lauren Shah,richardbrown@example.org,Bennetthaven,4,93.47
+D090,S016,2021-03-22,154,False,Haas and Sons,Lauren Shah,richardbrown@example.org,Bennetthaven,4,93.47
+D036,S007,2021-09-05,65,False,Bailey Inc,John Powers,mark82@example.net,Kennethport,2,85.06
+D041,S007,2021-08-09,68,False,Bailey Inc,John Powers,mark82@example.net,Kennethport,2,85.06
+D093,S007,2020-03-03,104,False,Bailey Inc,John Powers,mark82@example.net,Kennethport,2,85.06
+D098,S007,2021-11-12,50,True,Bailey Inc,John Powers,mark82@example.net,Kennethport,2,85.06
+D045,S010,2021-04-11,174,False,Gonzalez-Morrison,Kelly Stewart,ffox@example.net,East Micheal,10,88.4
+D076,S010,2021-07-16,96,True,Gonzalez-Morrison,Kelly Stewart,ffox@example.net,East Micheal,10,88.4
+D055,S011,2020-10-15,98,True,"Smith, Silva and Zimmerman",Mark Franklin,sandrasilva@example.com,South Joshua,7,86.55
+D065,S011,2020-12-29,65,True,"Smith, Silva and Zimmerman",Mark Franklin,sandrasilva@example.com,South Joshua,7,86.55
+D071,S011,2020-06-10,98,True,"Smith, Silva and Zimmerman",Mark Franklin,sandrasilva@example.com,South Joshua,7,86.55
+D080,S011,2020-04-30,69,True,"Smith, Silva and Zimmerman",Mark Franklin,sandrasilva@example.com,South Joshua,7,86.55
+D089,S011,2021-07-08,92,True,"Smith, Silva and Zimmerman",Mark Franklin,sandrasilva@example.com,South Joshua,7,86.55
+D091,S011,2021-11-30,174,True,"Smith, Silva and Zimmerman",Mark Franklin,sandrasilva@example.com,South Joshua,7,86.55
+D061,S009,2020-07-04,155,True,"Newton, Scott and Michael",Jonathan Kim,edavis@example.net,Calderonland,2,91.98
+D075,S009,2021-03-13,158,True,"Newton, Scott and Michael",Jonathan Kim,edavis@example.net,Calderonland,2,91.98

@@ -1,0 +1,21 @@
+SupplierID,SupplierName,ContactPerson,ContactEmail,Location,LeadTime,PerformanceScore
+S001,Hayes-Alvarado,Janet Shaffer,angela29@example.org,Randallland,2,86.99
+S002,"Hodge, Moore and Doyle",Michael Shannon,martinmichael@example.net,Powershaven,1,91.5
+S003,Stewart-Jackson,Christopher Miller,jasminecruz@example.org,Stephenbury,5,90.45
+S004,"Gibson, Baker and Vazquez",Philip Tucker,mharvey@example.net,Ambermouth,4,87.2
+S005,Sexton and Sons,Jacqueline Collins,johnsoncarol@example.net,Melissamouth,4,90.89
+S006,Christensen Inc,Christopher Davis,knightrobert@example.com,Lake Karen,3,93.09
+S007,Bailey Inc,John Powers,mark82@example.net,Kennethport,2,85.06
+S008,"Bailey, Roman and Long",Robert Henry,mosleysharon@example.net,New Jeremy,9,93.06
+S009,"Newton, Scott and Michael",Jonathan Kim,edavis@example.net,Calderonland,2,91.98
+S010,Gonzalez-Morrison,Kelly Stewart,ffox@example.net,East Micheal,10,88.4
+S011,"Smith, Silva and Zimmerman",Mark Franklin,sandrasilva@example.com,South Joshua,7,86.55
+S012,Reyes and Sons,Steve Gilbert,rthornton@example.com,Crystalstad,1,94.57
+S013,Perez Group,Holly Davis,asmith@example.org,Oliviastad,1,88.37
+S014,"Ibarra, Hudson and Stephenson",Robin Kim,brianapatterson@example.org,Robinberg,2,85.93
+S015,Smith LLC,Jessica Hall,usutton@example.net,Lake Angela,4,85.97
+S016,Haas and Sons,Lauren Shah,richardbrown@example.org,Bennetthaven,4,93.47
+S017,Holmes-White,Annette Mann,hendersonchristina@example.com,Port Sandramouth,9,91.04
+S018,Wolf-Juarez,Elizabeth Kim,sanchezvalerie@example.org,Guerraport,10,93.07
+S019,"Martinez, Gomez and Jones",Samuel Martin,acooper@example.org,New David,1,92.3
+S020,Lewis PLC,Olivia Hanna,alvarezedward@example.net,Markside,9,90.36
